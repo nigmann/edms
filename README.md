@@ -1,5 +1,4 @@
-# eDMs Land Rover
-
+# eDMs
 Complete template with MCSF tags on it. Perfectly built.
 
 1. Responsive
